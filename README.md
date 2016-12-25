@@ -12,3 +12,5 @@ Meant to be used as a crontab. Crontabs do not have access to the session which 
 	30 * * * * /home/?/bin/tagesschau/tagesschauCronRoot.sh
 	
 Executes /home/?/bin/tagesschau/tagesschau.py every 30 mins.
+
+You need to edit the shell script accordingly.
