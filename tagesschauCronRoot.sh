@@ -7,4 +7,4 @@
 export XAUTHORITY='/home/?/.Xauthority';
 export DISPLAY=:0.0;
 cd /home/?/bin/tagesschau
-/home/?/bin/tagesschau/tagesschau.py
+./tagesschau.py
